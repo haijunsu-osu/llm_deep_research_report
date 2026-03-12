@@ -36,30 +36,40 @@ Generation dates above are taken from the local document timestamps.
 
 ## Cleaned Research Prompts
 
-```text
-Prompt 1: Reconfigurable, Metamorphic, Foldable, Origami, and Kirigami Mechanisms
-Conduct a deep research study on open or challenging problems in reconfigurable, metamorphic, and foldable mechanisms, including origami- and kirigami-inspired mechanisms. Focus on:
-1. theoretical analysis methods,
-2. design synthesis methodologies, and
-3. practical applications.
-Emphasize unsolved problems. For each problem, describe the main challenges and potential technical routes to address them.
+### Prompt 1: Kinematic Synthesis
 
-Prompt 2: Parallel Mechanisms
+```text
+Conduct a deep research study on open or challenging problems in the kinematic synthesis theory of planar and spatial linkages. This includes both model-based approaches, such as Burmester theory formulated through algebraic equations, and data-driven or learning-based approaches.
+Synthesis here refers to determining the type or dimensions of linkages needed to achieve a prescribed motion pattern.
+Emphasize unsolved problems. For each problem, describe the main challenges and potential technical routes to address them.
+```
+
+### Prompt 2: Parallel Mechanisms
+
+```text
 Conduct a deep research study on open or challenging problems in parallel mechanisms. Focus on:
 1. theoretical analysis, including workspace analysis models and kinematic calibration,
 2. design methodologies, including kinematic synthesis and design optimization, and
 3. practical applications.
 Emphasize unsolved problems. For each problem, describe the main challenges.
+```
 
-Prompt 3: Kinematic Synthesis
-Conduct a deep research study on open or challenging problems in the kinematic synthesis theory of planar and spatial linkages. This includes both model-based approaches, such as Burmester theory formulated through algebraic equations, and data-driven or learning-based approaches.
-Synthesis here refers to determining the type or dimensions of linkages needed to achieve a prescribed motion pattern.
-Emphasize unsolved problems. For each problem, describe the main challenges and potential technical routes to address them.
+### Prompt 3: Compliant Mechanisms
 
-Prompt 4: Compliant Mechanisms
+```text
 Conduct a deep research study on open problems in compliant mechanisms. Focus on:
 1. theoretical models,
 2. design methodologies, and
 3. design applications.
 Emphasize unsolved problems in each area.
+```
+
+### Prompt 4: Reconfigurable, Metamorphic, Foldable, Origami, and Kirigami Mechanisms
+
+```text
+Conduct a deep research study on open or challenging problems in reconfigurable, metamorphic, and foldable mechanisms, including origami- and kirigami-inspired mechanisms. Focus on:
+1. theoretical analysis methods,
+2. design synthesis methodologies, and
+3. practical applications.
+Emphasize unsolved problems. For each problem, describe the main challenges and potential technical routes to address them.
 ```
