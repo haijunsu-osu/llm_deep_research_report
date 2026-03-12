@@ -10,25 +10,25 @@ Warning: these reports reflect personal opinions and exploratory assessments. Th
 
 ## Reports
 
-1. **Reconfigurable, metamorphic, foldable, origami, and kirigami mechanisms**  
-   Generated: 2026-03-08 20:33:05  
-   File: `Open and Challenging Problems in Reconfigurable, Metamorphic, Foldable, Origami, and Kirigami Mechan.pdf`  
-   URL: https://github.com/haijunsu-osu/llm_deep_research_report/blob/main/Open%20and%20Challenging%20Problems%20in%20Reconfigurable%2C%20Metamorphic%2C%20Foldable%2C%20Origami%2C%20and%20Kirigami%20Mechan.pdf
+1. **Kinematic synthesis of planar and spatial linkages**  
+   Generated: 2026-03-08 21:35:29  
+   File: `Open and Challenging Problems in Kinematic Synthesis of Planar and Spatial Linkages.pdf`  
+   URL: https://github.com/haijunsu-osu/llm_deep_research_report/blob/main/Open%20and%20Challenging%20Problems%20in%20Kinematic%20Synthesis%20of%20Planar%20and%20Spatial%20Linkages.pdf
 
 2. **Parallel mechanisms**  
    Generated: 2026-03-07 19:14:23  
    File: `Open and Challenging Problems in Parallel Mechanisms.pdf`  
    URL: https://github.com/haijunsu-osu/llm_deep_research_report/blob/main/Open%20and%20Challenging%20Problems%20in%20Parallel%20Mechanisms.pdf
 
-3. **Kinematic synthesis of planar and spatial linkages**  
-   Generated: 2026-03-08 21:35:29  
-   File: `Open and Challenging Problems in Kinematic Synthesis of Planar and Spatial Linkages.pdf`  
-   URL: https://github.com/haijunsu-osu/llm_deep_research_report/blob/main/Open%20and%20Challenging%20Problems%20in%20Kinematic%20Synthesis%20of%20Planar%20and%20Spatial%20Linkages.pdf
-
-4. **Compliant mechanisms**  
+3. **Compliant mechanisms**  
    Generated: 2026-03-07 10:24:30  
    File: `Open problems in compliant mechanisms across theory, design methods, and applications.pdf`  
    URL: https://github.com/haijunsu-osu/llm_deep_research_report/blob/main/Open%20problems%20in%20compliant%20mechanisms%20across%20theory%2C%20design%20methods%2C%20and%20applications.pdf
+
+4. **Reconfigurable, metamorphic, foldable, origami, and kirigami mechanisms**  
+   Generated: 2026-03-08 20:33:05  
+   File: `Open and Challenging Problems in Reconfigurable, Metamorphic, Foldable, Origami, and Kirigami Mechan.pdf`  
+   URL: https://github.com/haijunsu-osu/llm_deep_research_report/blob/main/Open%20and%20Challenging%20Problems%20in%20Reconfigurable%2C%20Metamorphic%2C%20Foldable%2C%20Origami%2C%20and%20Kirigami%20Mechan.pdf
 
 These reports were prepared from the cleaned prompts listed below.
 
