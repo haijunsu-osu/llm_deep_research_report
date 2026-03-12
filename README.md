@@ -12,19 +12,23 @@ Warning: these reports reflect personal opinions and exploratory assessments. Th
 
 1. **Reconfigurable, metamorphic, foldable, origami, and kirigami mechanisms**  
    Generated: 2026-03-08 20:33:05  
-   File: `Open and Challenging Problems in Reconfigurable, Metamorphic, Foldable, Origami, and Kirigami Mechan.pdf`
+   File: `Open and Challenging Problems in Reconfigurable, Metamorphic, Foldable, Origami, and Kirigami Mechan.pdf`  
+   URL: https://github.com/haijunsu-osu/llm_deep_research_report/blob/main/Open%20and%20Challenging%20Problems%20in%20Reconfigurable%2C%20Metamorphic%2C%20Foldable%2C%20Origami%2C%20and%20Kirigami%20Mechan.pdf
 
 2. **Parallel mechanisms**  
    Generated: 2026-03-07 19:14:23  
-   File: `Open and Challenging Problems in Parallel Mechanisms.pdf`
+   File: `Open and Challenging Problems in Parallel Mechanisms.pdf`  
+   URL: https://github.com/haijunsu-osu/llm_deep_research_report/blob/main/Open%20and%20Challenging%20Problems%20in%20Parallel%20Mechanisms.pdf
 
 3. **Kinematic synthesis of planar and spatial linkages**  
    Generated: 2026-03-08 21:35:29  
-   File: `Open and Challenging Problems in Kinematic Synthesis of Planar and Spatial Linkages.pdf`
+   File: `Open and Challenging Problems in Kinematic Synthesis of Planar and Spatial Linkages.pdf`  
+   URL: https://github.com/haijunsu-osu/llm_deep_research_report/blob/main/Open%20and%20Challenging%20Problems%20in%20Kinematic%20Synthesis%20of%20Planar%20and%20Spatial%20Linkages.pdf
 
 4. **Compliant mechanisms**  
    Generated: 2026-03-07 10:24:30  
-   File: `Open problems in compliant mechanisms across theory, design methods, and applications.pdf`
+   File: `Open problems in compliant mechanisms across theory, design methods, and applications.pdf`  
+   URL: https://github.com/haijunsu-osu/llm_deep_research_report/blob/main/Open%20problems%20in%20compliant%20mechanisms%20across%20theory%2C%20design%20methods%2C%20and%20applications.pdf
 
 These reports were prepared from the cleaned prompts listed below.
 
@@ -32,40 +36,30 @@ Generation dates above are taken from the local document timestamps.
 
 ## Cleaned Research Prompts
 
-### 1. Reconfigurable, Metamorphic, Foldable, Origami, and Kirigami Mechanisms
-
+```text
+Prompt 1: Reconfigurable, Metamorphic, Foldable, Origami, and Kirigami Mechanisms
 Conduct a deep research study on open or challenging problems in reconfigurable, metamorphic, and foldable mechanisms, including origami- and kirigami-inspired mechanisms. Focus on:
-
 1. theoretical analysis methods,
 2. design synthesis methodologies, and
 3. practical applications.
-
 Emphasize unsolved problems. For each problem, describe the main challenges and potential technical routes to address them.
 
-### 2. Parallel Mechanisms
-
+Prompt 2: Parallel Mechanisms
 Conduct a deep research study on open or challenging problems in parallel mechanisms. Focus on:
-
 1. theoretical analysis, including workspace analysis models and kinematic calibration,
 2. design methodologies, including kinematic synthesis and design optimization, and
 3. practical applications.
-
 Emphasize unsolved problems. For each problem, describe the main challenges.
 
-### 3. Kinematic Synthesis
-
+Prompt 3: Kinematic Synthesis
 Conduct a deep research study on open or challenging problems in the kinematic synthesis theory of planar and spatial linkages. This includes both model-based approaches, such as Burmester theory formulated through algebraic equations, and data-driven or learning-based approaches.
-
 Synthesis here refers to determining the type or dimensions of linkages needed to achieve a prescribed motion pattern.
-
 Emphasize unsolved problems. For each problem, describe the main challenges and potential technical routes to address them.
 
-### 4. Compliant Mechanisms
-
+Prompt 4: Compliant Mechanisms
 Conduct a deep research study on open problems in compliant mechanisms. Focus on:
-
 1. theoretical models,
 2. design methodologies, and
 3. design applications.
-
 Emphasize unsolved problems in each area.
+```
